@@ -1,5 +1,6 @@
 #![doc(html_root_url = "https://docs.rs/state/0.4.2")]
 #![warn(missing_docs)]
+#![feature(unsafe_cell_get_mut)]
 
 //! # Safe, Effortless `state` Management
 //!
